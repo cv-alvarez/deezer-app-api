@@ -1,0 +1,16 @@
+input{
+background-color: transparent !important;
+width: 80% !important;
+margin-left: auto;
+color: #fff !important;
+margin-right: auto;
+}
+input[type="search"]::placeholder {
+    color: rgba(255, 255, 255, 0.568);
+  }
+  input[type="search"]:focus {
+    color: #fff;
+  }
+  input[type="search"]:focus- {
+    color: #fff
+  }

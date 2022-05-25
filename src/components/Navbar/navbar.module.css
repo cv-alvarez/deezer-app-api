@@ -1,0 +1,11 @@
+.navbar{
+ background-color: #000a11 !important;
+ border-bottom: .5px solid rgba(113, 139, 224, 0.247);
+}
+.brand{
+    color: #fff !important;
+}
+.icon{
+    color: #fff !important;
+    font-size: 14px !important;
+}

@@ -1,0 +1,13 @@
+.p{
+    font-size: 14px;
+    white-space: nowrap;
+    color: #fff;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+}
+.card{
+    width: 180px ;
+    
+    background-color: transparent;
+}
+.card-body{}

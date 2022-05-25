@@ -1,0 +1,21 @@
+th{
+    color: #fff;
+    text-align: left;
+    font-size:14px;
+    font-weight:400;
+    border-bottom: .1px solid rgba(247, 247, 247, 0.144) !important;
+}
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: #a0276e;
+  color: #a0276e;
+}
+
+
+.link{
+  color: #fff;
+  text-decoration: none;
+}
+.link:hover{
+  color: #a0276e;
+}
